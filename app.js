@@ -12,7 +12,7 @@ const clearItemsBtn = document.querySelector(".clear-btn");
 // ****** SETUP ITEMS **********
 // [Variable]
 
-// item 들을 담고 있는 배열.
+// item 들을 담고 있는 배열 형태의 itemList
 let itemList = [];
 
 // item : id(key), value(vlaue) 로 이루어진 객체.
